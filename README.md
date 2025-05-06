@@ -31,12 +31,15 @@ inventory-system/
 Local Setup
 
 1. Clone the Repository
+   
 git clone https://github.com/your-username/inventory-system.git
+
 cd inventory-system
 
 2. Create Virtual Environment
    
 python -m venv venv
+
 venv\Scripts\activate
 
 3. Install Dependencies
