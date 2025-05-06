@@ -61,6 +61,7 @@ python app.py
 Visit http://localhost:5000 to access the app.
 
 ScreenShots
+
 1.
 ![image](https://github.com/user-attachments/assets/cab221fc-91a5-437d-b370-8faf7d62c006)
 2.
@@ -72,4 +73,7 @@ ScreenShots
 5.
 ![image](https://github.com/user-attachments/assets/69796f6a-6e3b-4e9c-a843-f52097b762f3)
 
+Screen recording:
+Here below the link for the video of above project.
 
+https://drive.google.com/drive/folders/1XhuM7b0gJIlNnf8lNqmceoKmxxL4C0WY?usp=sharing.
